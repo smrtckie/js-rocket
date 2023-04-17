@@ -42,10 +42,27 @@
 	var num1 = 15;
 	var num2 = 150;
 
-	if (num1<num2) {
+	if (num1>num2) {
 		alert('true!!!');
 	} else {
 		alert('false!!!');
 	};
+
+
+	var name1 = 'Hannah';
+	var name2 = 'Sarah';
+
+	if (name1 == 'Sarah' || name2 =='Hannah') {
+		alert('true 1!!!');
+	} else if (name2 == 'Sarah') {
+		alert('true 2!!!');
+	} else {
+		alert('false!!!');
+	};
+
+	// && means AND : || means OR : == means EQUALS
+
+	
+
 
 
