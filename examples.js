@@ -36,3 +36,16 @@
 		return firstname + " " + secondname + " " + lastname;
 		//type in colsole with strings for each name ('Sarah', ...)//
 	}
+
+//Explaing If-Then Statements//
+
+	var num1 = 15;
+	var num2 = 150;
+
+	if (num1<num2) {
+		alert('true!!!');
+	} else {
+		alert('false!!!');
+	};
+
+
