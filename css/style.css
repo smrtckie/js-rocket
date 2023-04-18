@@ -4,4 +4,30 @@ body{
 
 h1{
 	font-size: 50px;
+	color: violet;
+
+}
+
+.cool{
+	display: none;
+	width: 100px;
+	height: 100px;
+	background-color: none;
+	transition: background-color 1s;
+}
+
+.cool.red{
+	background-color: red;
+	shape
+}
+.cool.yellow{
+	background-color: yellow;
+}
+
+.cool.blue{
+	background-color: darkblue;
+}
+
+.cool.green{
+	background-color: lawngreen;
 }
